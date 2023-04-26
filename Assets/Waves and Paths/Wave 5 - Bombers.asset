@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02c00f8fcffc1f145b9b39c92f15b8e6, type: 3}
+  m_Name: Wave 5 - Bombers
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  - {fileID: 1827024108891762762, guid: 8d20184f694477a42b3e3827f803fb75, type: 3}
+  pathPrefab: {fileID: 4340668506346188410, guid: ecdeccddf2600ff41a1ebb2c3e166c4f, type: 3}
+  spawnPointsPrefab: {fileID: 7662755720603123624, guid: 2828032638b432b4e8bf2b3c0e3e4e6f, type: 3}
+  isRegularWave: 0
+  moveSpeed: 5
+  timeBetweenEnemySpawns: 0.5
+  spawnTimeVariance: 0
+  minSpawnTime: 0.2
+  nextWaveTime: 2
+  randomSpawnPointWave: 1
+  determinedSpawnPointWave: 0
+  spawnPointIndex: 0

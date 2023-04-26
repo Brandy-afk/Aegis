@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02c00f8fcffc1f145b9b39c92f15b8e6, type: 3}
+  m_Name: Wave 3 - Yellow again
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 2311917333029163949, guid: 12c544ec5b250024ab6c6929810a522a, type: 3}
+  - {fileID: 2311917333029163949, guid: 12c544ec5b250024ab6c6929810a522a, type: 3}
+  - {fileID: 2311917333029163949, guid: 12c544ec5b250024ab6c6929810a522a, type: 3}
+  - {fileID: 2311917333029163949, guid: 12c544ec5b250024ab6c6929810a522a, type: 3}
+  - {fileID: 2311917333029163949, guid: 12c544ec5b250024ab6c6929810a522a, type: 3}
+  - {fileID: 2311917333029163949, guid: 12c544ec5b250024ab6c6929810a522a, type: 3}
+  pathPrefab: {fileID: 4903442294610993896, guid: 6bed38cde91b94b4ca23335a097718a2, type: 3}
+  spawnPointsPrefab: {fileID: 0}
+  isRegularWave: 1
+  moveSpeed: 5
+  timeBetweenEnemySpawns: 0.5
+  spawnTimeVariance: 0
+  minSpawnTime: 0.2
+  nextWaveTime: 1
+  numberOfSpawnPoints: 0
+  randomSpawnPointWave: 0
+  determinedSpawnPointWave: 0
